@@ -1,0 +1,10 @@
+<resources>
+    <!-- The name of the app -->
+    <string name="app_name">GM₿</string>
+
+    <!-- The name of the notification channel -->
+    <string name="channel_name">Media Playback</string>
+
+    <!-- The description of the notification channel -->
+    <string name="channel_description">Notification channel for media playback controls</string>
+</resources>
